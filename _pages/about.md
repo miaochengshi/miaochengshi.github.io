@@ -23,17 +23,29 @@ I am independently operating a WeChat official account. Dedicated to knowledge s
 My official account contains several sections.
 
 - **Python Tuitions**
+
 I post orginal tutorial videos about Python programming. Aiming at guiding beginners to learn Python programming from scrach. In this series, I posted/ will post tuitions about:
+
 > Branching and iteration
+
 > String manipulation
+
 > Guess and check method, approximations method and Bisection method
+
 > Functions
+
 > Tuples and lists
+
 > Recursion and dictionaries
+
 > Testing, debugging, exceptions, and assertions
+
 > Object oriented programming 
+
 > Python classes and inheritance
+
 > Program efficiency
+
 > Searching and sorting
 
 - **Data Structure and Algorathms**
