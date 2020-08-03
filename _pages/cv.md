@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Nanjing Tech University, 2015
+* Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2019 - June 2020: Cooperative Researcher
+  * GLB Int􏰔􏰕ellige􏰔􏰕nt Technologies. Shanghai, China
+  * In charge of solving the state estimation problems and develop junction (hotspot, core) temperature evaluation algorithms for power MOSFET (capacitance, rotor and stator on a 48V Belt Starter Generator (BSG) installed in hybrid vehicles.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2018 - March 2019: Visiting Scholar
+  * Wayne State University, Detroit, USA
+  * Conduct research on discrete event systems, hybrid systems, and their applications in automotive control.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in  MATLAB 
+* Proficient in Python 
+* Familiar with JavaScript
+* Proficient in Microsoft Office
+* Fluent in English Communication
+* Fluent in  English Writing
+* Demonstrated leadership skills
+* Demonstrated teamwork skills
 
+Awards
+======
+* Excellent Bachelor Degree Thesis of Jiangsu Province. 
+* Best Degree Thesis Prize of Nanjing Tech University
+* Meritorious Winner of Mathematical Contest in Modeling.
+* The Third Prize for National English Contest for College Students.
+
+Projects
+======
+* Time Scale Based Supervisory Control of Discrete Event Dynamic Systems (DEDS) under Communication Delays: 2017 - 2020
+  * Adopting time event to measure communication delays and reinvestigating closed-loop control problem. Solving safety control and nonblocking problems of networked DEDS.
+
+* Design and Realization of Video Surveillance System on DM6437 Platform: 2015
+  * Proposed a mixed Gaussian model to detect and track single indoor inhabitant. Designed. And realized a video surveillance system based on DM6437 DSP platform.
+
+* Design and Realization of the Control Systems of an Unmanned Quadrotor Helicopter: 2013 - 2015
+  * Based on STM32, investigated and designed the controller and control algorithms for a quadrotor helicopter. Making it be able to taking off, landing, hovering and target tracking.
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
