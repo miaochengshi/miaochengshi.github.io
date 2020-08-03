@@ -87,6 +87,13 @@ Follow my Official Account though WeChat if you are interested in what I am doin
 
 ## My Ambition
 
+I am planning to established a younger empowerment foundation. The foundation is interest-oriented to promote robots, programming and artificial intelligence skills to empower the next yonger generation to thrive in the new technological world.
+
+- **My Action**
+
+> I am sharing basic Python programming skill through online classes to a number of Chinese engineers in Detroit who work in the automotive parts manufacturing and mechanical engineering industries. Together with them, we explored the feasibility of using artificial intelligence to reduce workload and increase productivity. 
+
+> I am teching a Grade 8 student from Indiana via online courses to learn JavaScripts in my part time. I will dynamically adjust the topics of each course according to the student's interests, hoping that by the end of the course, he will be able to use his creativity and imagination to complete a project using the knowledge he has acquired.
 
 
 Contact Me
