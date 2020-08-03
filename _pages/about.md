@@ -18,7 +18,12 @@ Hi, there, my name is Miao Chengshi and this is my homepage.
 
 ## My Official Account
 I am independently operating a WeChat official account. Dedicated to knowledge sharing of AI-related skills.
-[My WeChat Official Account](/images/editing-talk.png)
+[My WeChat Official Account](/images/WeChatQR.gif)
+
+My official account contains several sections.
+
+- **Python Tuitions
+
 
 ## My Ambition
 
