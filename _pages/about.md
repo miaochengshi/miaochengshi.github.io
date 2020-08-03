@@ -30,7 +30,7 @@ I post orginal tutorial videos about Python programming. Aiming at guiding begin
 
 > String manipulation
 
-> Guess and check method, approximations method and Bisection method
+> Guess and check method, approximations method and bisection method
 
 > Functions
 
@@ -48,7 +48,37 @@ I post orginal tutorial videos about Python programming. Aiming at guiding begin
 
 > Searching and sorting
 
-- **Data Structure and Algorathms**
+- **Data Structure and Algorithms**
+
+I post orginal videos about data structure and algorithms. I collect algorithm questions and then make videos containing both conceptual overview and code wolkthrough . In this series, I posted/will post videos about:
+
+> Algorithms about arrays
+
+> Algorithms about bisection trees
+
+> Algorithms about binary trees 
+
+> Dynamic programming
+
+> Famous algorithms
+
+> Algoriths about graph
+
+> Algoriths about heaps
+
+> Algorithms about linked lists
+
+> Algorithms about recursion
+
+> Algorithms about searching and sorting
+
+> Algorithms about stacks
+
+> Algorithms about strings
+
+> ...
+
+
 
 
 
