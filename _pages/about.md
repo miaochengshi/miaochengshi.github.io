@@ -10,9 +10,11 @@ redirect_from:
 
 Hi, there, my name is Miao Chengshi and this is my homepage.
 
-- **Toward Work** I am passionately curious, always willing to grasp new concepts and ideas, I am ambitious and driven, I am collaborative. I am also a natural leader.
+- **Towards Work** 
+> I am passionately curious, always willing to grasp new concepts and ideas, I am ambitious and driven, I am collaborative. I am also a natural leader.
 
-- **Towards Life** I love to travel, love to experience new things. I have a pleasant personality and make friends easily.
+- **Towards Life** 
+> I love to travel, love to experience new things. I have a pleasant personality and make friends easily.
 
 ## My Official Account
 
