@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -53,7 +53,8 @@ Projects
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Chengshi Miao**, Shaolong Shu, Feng Lin, State Estimation for Timed Discrete Event Systems with Communication Delays. Chinese Automation Congress. 2017. （EI）
+* **Chengshi Miao**, Shaolong Shu, Feng Lin, Predictive Supervisory Control for Timed Discrete Event Systems under Communication Delays. IEEE Conference on Decision and Control. 2019. （Top EI Conference in Control Theorem Field）
+* **Chengshi Miao**, Shaolong Shu, Feng Lin, State Estimation and Supervisor Synthesis for Timed Discrete Event Systems under Communication Delays. IEEE Transactions on Automation Control. (Under 2nd Review， Top SCI Journal in Control Theorem Field)
+
   
