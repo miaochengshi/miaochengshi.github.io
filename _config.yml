@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Miao Chengshi"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. Candidate in Tongji University. "
+  bio              : "Ph.D. Candidate, Tongji University. "
   location         : "Shanghai, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,8 +115,6 @@ author:
   xing             :
   youtube          : # "https://www.youtube.com/channel/UChzdhc1kmS9x-65H5wr2GDA/featured?view_as=subscriber"
   wikipedia        :
-  中文版            : "https://miaochengshi.github.io/cn/"
-
 
 # Reading Files
 include:
