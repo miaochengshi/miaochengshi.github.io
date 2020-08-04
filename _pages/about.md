@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-【[简体中文](https://miaochengshi.github.io/cn/)】
-
-Hi there, my name is Miao Chengshi. Welcome to my homepage.
+Hi there, my name is Miao Chengshi. Welcome to my homepage. 【[简体中文](https://miaochengshi.github.io/cn/)】
 
 - **Towards Work** 
 > I am passionately curious, always willing to grasp new concepts and ideas. I am ambitious and driven. I am collaborative. I am also a natural leader.
