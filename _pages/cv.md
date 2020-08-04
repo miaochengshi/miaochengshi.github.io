@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-<font color=red>Education
+<font color=green>Education test
 ======
 * B.S. in Automation, Nanjing Tech University, 2015
 * Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
