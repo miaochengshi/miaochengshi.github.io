@@ -21,7 +21,7 @@ I am operating a WeChat official account. Dedicated to knowledge sharing of AI-r
 
 In early 2020, we were greatly affected by the pandemic. Many schools were unable to open and started online classes. Some schools started using DingTalk for online teaching. However, it was a big challenge for local teachers to use DingTalk to teach online because many of them were not familiar with this software, at that time, there were no in-depth official tutorials. Therefore, I came up with the idea to make tutorials videos on how to use DingTalk for online teaching and online examinations. After two sessions, I got a lot of positive feedback from teachers. Finally, I made ten tutorial videos on how to use DingTalk. After this series was finished, I started making some tutorials on Python programming and writing articles on English listening and English reading.
 
-This official account has become part of my life. On the one hand, this public number can more or less bring some help to others , on the other hand, it also constantly inspires me not to stop learning. Now, my official account mainly contains the following important iisections:
+This official account has become part of my life. On the one hand, this public number can more or less bring some help to others , on the other hand, it also constantly inspires me not to stop learning. Now, my official account mainly contains the following important sections:
 
 - **Python Tuitions**
 
