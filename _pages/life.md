@@ -9,7 +9,7 @@ redirect_from:
 
 Paragliding
 ======
-Went paragliding over the weekend and I loved the feeling of flyin
+Went paragliding over the weekend and I loved the feeling of flying in the blue sky.
 
 ![My WeChat Official Account](/images/paragliding1.jpeg)
 ![My WeChat Official Account](/images/paragliding2.jpeg)
