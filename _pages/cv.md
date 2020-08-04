@@ -14,11 +14,11 @@ Education
 
 Experience
 ======
-* **GLB Int􏰔􏰕ellige􏰔􏰕nt Technologies. Shanghai, China**: Cooperative Researcher
+* **GLB Int􏰔􏰕ellige􏰔􏰕nt Technologies**. Shanghai, China Cooperative Researcher
   * July 2019 - June 2020
   * In charge of solving the state estimation problems and develop junction (hotspot, core) temperature evaluation algorithms for power MOSFET (capacitance, rotor and stator on a 48V Belt Starter Generator (BSG) installed in hybrid vehicles.
 
-* **Wayne State University, Detroit, USA**: Visiting Scholar
+* **Wayne State University**. Detroit, USA: Visiting Scholar
   * January 2018 - March 2019
   * Conduct research on discrete event systems, hybrid systems, and their applications in automotive control.
   
