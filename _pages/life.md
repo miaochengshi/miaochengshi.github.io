@@ -36,7 +36,7 @@ I've dived about three or four times before and after. Each time I was impressed
 
 Snowboarding
 ======
-在密歇根州时，自学了单板滑雪，然后就喜欢上了这项运动。享受与雪的亲密接触，享受速度与激情。
+I learned snowboarding on my own while in Michigan and then fell in love with this sport. Enjoying the speed and excitement of being close to the snow.
 
 ![Snowboarding](/images/Snowboarding1.jpeg)
 ![Snowboarding](/images/Snowboarding2.jpeg)
