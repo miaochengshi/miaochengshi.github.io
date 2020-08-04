@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: " "
-permalink: /cv/
+permalink: /Life/
 author_profile: true
 redirect_from:
-  - /cv
+  - /Life
 ---
 
 Education
