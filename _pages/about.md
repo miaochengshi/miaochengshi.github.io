@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, my name is Miao Chengshi. Welcome to my homepage.
+Hi there, my name is Miao Chengshi. Welcome to my homepage. 【[中文版](miaochengshi.github.io/cn)】
 
 - **Towards Work** 
 > I am passionately curious, always willing to grasp new concepts and ideas. I am ambitious and driven. I am collaborative. I am also a natural leader.
@@ -16,7 +16,7 @@ Hi there, my name is Miao Chengshi. Welcome to my homepage.
 - **Towards Life** 
 > I love to travel, love to experience new things. I have a pleasant personality and make friends easily.
 
-## My Official Account (IN CHINESE)
+## My Official Account
 I am operating a WeChat official account. Dedicated to knowledge sharing of AI-related skills. 
 
 In early 2020, we were greatly affected by the pandemic. Many schools were unable to open and started online classes. Some schools started using DingTalk for online teaching. However, it was a big challenge for local teachers to use DingTalk to teach online because many of them were not familiar with this software, at that time, there were no in-depth official tutorials. Therefore, I came up with the idea to make tutorials videos on how to use DingTalk for online teaching and online examinations. After two sessions, I got a lot of positive feedback from teachers. Finally, I made ten tutorial videos on how to use DingTalk. After this series was finished, I started making some tutorials on Python programming and writing articles on English listening and English reading.
