@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-\color{#FF0000}{Education}
+<font color=red>Education</font>
 ======
 * B.S. in Automation, Nanjing Tech University, 2015
 * Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
