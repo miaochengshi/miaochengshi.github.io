@@ -101,3 +101,5 @@ I am planning to established a younger empowerment foundation. The foundation is
 Contact Me
 ------
 Contact me if you are interested in doing something awesome together with me.
+
+E-Mail: miaochengshi@hotmail.com
