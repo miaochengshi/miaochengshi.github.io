@@ -11,7 +11,7 @@ Paragliding
 ======
 Went paragliding over the weekend and I loved the feeling of flying in the blue sky.
 
-Jiangshan, Zhejiang                       |  Jianshan, Zhejiang                        |  Jianshan, Zhejiang
+Jianshan, Zhejiang                       |  Jianshan, Zhejiang                        |  Jianshan, Zhejiang
 :----------------------------------------:|:------------------------------------------:|:------------------------------------------:
 ![Paragliding](/images/paragliding1.jpeg) |  ![Paragliding](/images/paragliding2.jpeg) |  ![Paragliding](/images/paragliding3.jpeg)
 
