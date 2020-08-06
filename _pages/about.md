@@ -16,6 +16,8 @@ Hi there, my name is Miao Chengshi. Welcome to my homepage. 【[简体中文](ht
 - **Towards Life** 
 > I love to travel, love to experience new things. I have a pleasant personality and make friends easily.
 
+### Strong logical thinking ability. Good understanding of algorithms.
+
 ## My Official Account
 I am operating a WeChat official account. Dedicated to knowledge sharing of AI-related skills. 
 
