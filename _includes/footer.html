@@ -4,7 +4,6 @@
   <span>{{ site.name | default: site.title }}.</span>
   <script>
     function getNowTime() {
-      // 获取时分秒
       let now = new Date()
       let hour = now.getHours()
       let minute = now.getMinutes()
@@ -12,7 +11,6 @@
       return hour + ':' + minute + ':' + second
     }
     setInterval(() => {
-      // 操作页面DOM，显示正确的时间 setInterval会间隔时间永远执行
       document.querySelector('#page__footer-time').innerHTML = getNowTime()
     }, 1000)
   </script>
