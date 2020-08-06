@@ -14,7 +14,7 @@ Education
 
 Experience
 ======
-* **GLB Int􏰔􏰕ellige􏰔􏰕nt Technologies**. Shanghai, China Cooperative Researcher
+* **GLB Int􏰔􏰕ellige􏰔􏰕nt Technologies**. Shanghai, China: Cooperative Researcher
   * July 2019 - June 2020
   * In charge of solving the state estimation problems and develop junction (hotspot, core) temperature evaluation algorithms for power MOSFET (capacitance, rotor and stator on a 48V Belt Starter Generator (BSG) installed in hybrid vehicles.
 
@@ -35,10 +35,10 @@ Skills
 
 Awards
 ======
-* **Excellent Bachelor Degree Thesis** of Jiangsu Province. 
+* **Excellent Bachelor Degree Thesis** of Jiangsu Province
 * **Best Degree Thesis Prize** of Nanjing Tech University
-* **Meritorious Winner** of Mathematical Contest in Modeling.
-* **The Third Prize** for National English Contest for College Students.
+* **Meritorious Winner** of Mathematical Contest in Modeling
+* **The Third Prize** for National English Contest for College Students
 
 Projects
 ======
