@@ -1,7 +1,7 @@
 {% include base_path %}
 <div class="page__footer-copyright">&copy;
-  <span class="page__footer-copyright" id="page__footer-time">{{ site.time | date: '%Y' }}</span>
   <span>{{ site.name | default: site.title }}.</span>
+  <span class="page__footer-copyright" id="page__footer-time">{{ site.time | date: '%Y' }}</span>
   <script>
     function getNowTime() {
       let now = new Date();
