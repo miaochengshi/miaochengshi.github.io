@@ -28,7 +28,7 @@ author_profile: true
 
 # Thesises
 
-- **Design of Vision Inspection Module and Control Algorithm for a Quadrotor Helicopter**
+- **(Bachelor) Design of Vision Inspection Module and Control Algorithm for a Quadrotor Helicopter**
 
 **Abstract**: The quadrotor helicopter has comprehensive applications in military and civilian for its simple structure, special control concept and vertical takeoff and landing ability. And for recent years, it has been a hot topic for researchers over the world. However, quadrotor helicopter models are strongly coupled, under-actuated and nonlinear, the design and implement of its control system is a complex process, in which the navigation and control of quadrotor is one of the key technology.
 
