@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Strong logical thinking ability. Good understanding of algorithms.
-
 Hi there, my name is Miao Chengshi. Welcome to my homepage. 【[简体中文](https://miaochengshi.github.io/cn/)】
 
 - **Towards Work** 
