@@ -1,6 +1,8 @@
 {% include base_path %}
-
-<script>
+<div class="page__footer-copyright">&copy;
+  <span class="page__footer-copyright" id="page__footer-time">{{ site.time | date: '%Y' }}</span>
+  <span>{{ site.name | default: site.title }}.</span>
+  <script>
     function getNowTime() {
       // 获取时分秒
       let now = new Date()
@@ -14,8 +16,4 @@
       document.querySelector('#page__footer-time').innerHTML = getNowTime()
     }, 1000)
   </script>
-
-<div class="page__footer-copyright">&copy;
-  <span class="page__footer-copyright" id="page__footer-time">{{ site.time | date: '%Y' }}</span>
-  <span>{{ site.name | default: site.title }}.</span>
 </div>
