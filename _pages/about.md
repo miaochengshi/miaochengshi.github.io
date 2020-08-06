@@ -10,13 +10,14 @@ redirect_from:
 
 Hi there, my name is Miao Chengshi. Welcome to my homepage. 【[简体中文](https://miaochengshi.github.io/cn/)】
 
+### Strong logical thinking ability. Good understanding of algorithms.
+
 - **Towards Work** 
 > I am passionately curious, always willing to grasp new concepts and ideas. I am ambitious and driven. I am collaborative. I am also a natural leader.
 
 - **Towards Life** 
 > I love to travel, love to experience new things. I have a pleasant personality and make friends easily.
 
-### Strong logical thinking ability. Good understanding of algorithms.
 
 ## My Official Account
 I am operating a WeChat official account. Dedicated to knowledge sharing of AI-related skills. 
