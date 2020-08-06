@@ -11,8 +11,11 @@
     }
     setInterval(() => {
       // 操作页面DOM，显示正确的时间 setInterval会间隔时间永远执行
-      document.querySelector('.page__footer-copyright').innerHTML = '&copy;' + getNowTime()
+      document.querySelector('#page__footer-time').innerHTML = getNowTime()
     }, 1000)
   </script>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</div>
+<div class="page__footer-copyright">&copy;
+  <span class="page__footer-copyright" id="page__footer-time">{{ site.time | date: '%Y' }}</span>
+  <span>{{ site.name | default: site.title }}.</span>
+</div>
