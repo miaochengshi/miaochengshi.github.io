@@ -9,7 +9,7 @@
 # locale                   : "en-US"
 title                    : "HOME"
 title_separator          : "-"
-name                     : &name "Miao Chengshi"
+name                     : &name "IT Classroom"
 description              : "Passionate. Curious. Ambitious and driven. Collaborative. A natural leader. " #&description "personal description"
 url                      : https://miaochengshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
