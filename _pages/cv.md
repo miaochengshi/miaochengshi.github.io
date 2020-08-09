@@ -7,6 +7,10 @@ redirect_from:
   - /cv
 ---
 
+**Passionate. Curious. Ambitious and driven. Collaborative. A natural leader**
+
+* Strong logical thinking ability. Good understanding of algorithms.
+
 Education
 ======
 * B.S. in Automation, Nanjing Tech University, 2015
