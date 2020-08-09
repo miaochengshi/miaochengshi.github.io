@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-**Passionate. Curious. Ambitious and driven. Collaborative. A natural leader**
+**Passionate. Curious. Ambitious and driven. Collaborative. A natural leader.**
 
 * Strong logical thinking ability. Good understanding of algorithms.
 
