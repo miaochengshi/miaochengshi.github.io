@@ -7,7 +7,7 @@ redirect_from:
   - /cv
 ---
 
-**-> CV in PDF ->** [[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)]
+* CV in PDF ->** [[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)]
 
 **Strong logical thinking ability. Good understanding of algorithms.**
 
