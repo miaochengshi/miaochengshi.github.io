@@ -7,10 +7,9 @@ redirect_from:
   - /cv
 ---
 
-[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)
-
 **Strong logical thinking ability. Good understanding of algorithms.**
 
+CV in PDF -> [Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)
 
 Education
 ======
@@ -21,7 +20,7 @@ Experience
 ======
 * **GLB Int􏰕ellige􏰔􏰕nt Technologies**. Shanghai, China: Cooperative Researcher
   * July 2019 - June 2020
-  * In charge of solving the state estimation problems and develop junction (hotspot, core) temperature evaluation algorithms for power MOSFET (capacitance, rotor and stator on a 48V Belt Starter Generator (BSG) installed in hybrid vehicles.
+  * Cooperate with the senior product manager and system engineer, as well as hardware and software engineers, I am in charge and solve the state estimation problems and develop junction temperature evaluation algorithms for a 48V Belt Starter Generator.
 
 * **Wayne State University**. Detroit, USA: Visiting Scholar
   * January 2018 - March 2019
@@ -32,6 +31,7 @@ Skills
 * **Proficient** in  MATLAB 
 * **Proficient** in Python 
 * **Familiar** with JavaScript
+* **Familiar** with C/C++
 * **Proficient** in Microsoft Office
 * **Fluent** in English Communication
 * **Fluent** in  English Writing
