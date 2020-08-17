@@ -10,6 +10,7 @@ redirect_from:
 
 **Strong logical thinking ability. Good understanding of algorithms.**
 
+[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)
 
 Education
 ======
