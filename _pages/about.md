@@ -31,7 +31,7 @@ I post orginal tutorial videos about Python programming. Aiming at guiding begin
 
 In this series, I posted/will post something about data structures and algorithms. I collect some interesting algorithm problems, and then analyze the solutions as well as Python implementation of each problem.
 
-- **Python and FinTech
+- **Python and FinTech**
 
 In this series, I posted/will post some pratical skills about how Python can help us do some financial data analysis works efficiently.
 
