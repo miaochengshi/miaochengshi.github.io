@@ -9,7 +9,7 @@ redirect_from:
 
 * CV in PDF -> [[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)]
 
-**R&D; Logical Thinking; Quick Learning; Programing; Data Analyzing**
+> Research and Development; Logical Thinking; Quick Learning; Programing; Data Analyzing.
 
 Education
 ======
