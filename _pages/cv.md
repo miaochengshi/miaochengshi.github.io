@@ -9,13 +9,19 @@ redirect_from:
 
 * CV in PDF -> [[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)]
 
-**Strong logical thinking ability. Good understanding of algorithms.**
-
+**R&D; Logical Thinking; Quick Learning; Programing; Data Analyzing**
 
 Education
 ======
-* B.S. in Automation, Nanjing Tech University, 2015
 * Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
+> GPA: 4.55/5.00
+> Major in control science and engineering. Research fields are analyzing, modeling, operational
+optimizing and supervisory control of networked discrete event systems.
+
+* B.S. in Automation, Nanjing Tech University, 2015
+> Ranking: 1/60
+> Major in Automation. Awarded for Excellent Bachelor Degree Thesis of Jiangsu Province.
+
 
 Experience
 ======
