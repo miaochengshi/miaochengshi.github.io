@@ -45,7 +45,7 @@ In this series, I posted/will post some pratical skills about how Python can hel
 
 When I come up with content that is interesting or helpful to a lot of people, or subscribers suggest something interesting, I'll make a video or article to put in this special planning series.
 
-- [**Thinking In English**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1589437448407810048&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
+- [**Think In English**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1589437448407810048&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 In this series, I posted/will post English word along with its history or origins.
 
