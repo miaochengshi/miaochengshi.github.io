@@ -14,22 +14,22 @@ redirect_from:
 Education
 ======
 * Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
-> **GPA: 4.55/5.00**
+* **GPA: 4.55/5.00**
 
-> Major in control science and engineering. Research fields are analyzing, modeling, operational
+* Major in control science and engineering. Research fields are analyzing, modeling, operational
 optimizing and supervisory control of networked discrete event systems.
 
 * B.S. in Automation, Nanjing Tech University, 2015
-> **Ranking: 1/60**
+* **Ranking: 1/60**
 
-> Major in Automation. Awarded for Excellent Bachelor Degree Thesis of Jiangsu Province.
+* Major in Automation. Awarded for Excellent Bachelor Degree Thesis of Jiangsu Province.
 
 
 Experience
 ======
-* **GLB Int􏰕ellige􏰔􏰕nt Technologies**. Shanghai, China: Cooperative Researcher
+* **GLB Intelligent Technologies**. Shanghai, China: Cooperative Researcher
   * July 2019 - June 2020
-  * Cooperate with the senior product manager and system engineer, as well as hardware and software engineers, I am in charge and solve the state estimation problems and develop junction temperature evaluation algorithms for a 48V Belt Starter Generator.
+  * Cooperate with the senior product manager and system engineer, as well as hardware and software engineers, I am in charge of solving the state estimation problems and developing junction temperature evaluation algorithms for a 48V Belt Starter Generator (BSG). We designed algorithms with high accuracy and implemented them to the BSG successfully. **The BSG I worked on will be in mass production by the end of next year. (Developed with C, Python and MATLAB)**
 
 * **Wayne State University**. Detroit, USA: Visiting Scholar
   * January 2018 - March 2019
