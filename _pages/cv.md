@@ -9,7 +9,7 @@ redirect_from:
 
 * CV in PDF -> [[Download](http://miaochengshi.github.io/files/CV_en_cn.pdf)]
 
-> **Research and Development/ Logical Thinking/ Quick Learning/P rograming/ Data Analyzing.**
+> **Research and Development/ Logical Thinking/ Quick Learning/Programing/ Data Analyzing.**
 
 Education
 ======
@@ -19,7 +19,7 @@ Education
 optimizing and supervisory control of networked discrete event systems.
 
 * B.S. in Automation, **Nanjing Tech University**, 2015
-  * Ranking: 1/60. (Recommended to Tongji University for Ph. D.)
+  * Ranking: 1/60. (Recommended to Tongji University for Ph.D.)
   * Major in Automation. Awarded for Excellent Bachelor Degree Thesis of Jiangsu Province.
 
 
