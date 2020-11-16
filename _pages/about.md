@@ -25,21 +25,27 @@ I am operating a WeChat official account. Dedicated to knowledge sharing of **Py
 
 This official account has become part of my life. On the one hand, this official account can more or less bring some help to others, on the other hand, it also constantly inspires me not to stop learning. Now, my official account mainly contains the following important sections:
 
-- **Python Tuitions**
+- [**Python Tuitions**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1340867406746583041&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 I post orginal tutorial videos about Python programming. Aiming at guiding beginners to learn Python programming from scrach.
 
-- **Data Structure and Algorithms**
+- [**Data Structure and Algorithms**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1469931623889567750&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 In this series, I posted/will post something about data structures and algorithms. I collect some interesting algorithm problems, and then analyze the solutions as well as Python implementation of each problem.
 
-- **Python and FinTech**
+- [**Algorithm Interviews**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1507824647319388162&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
+
+In this series, I collect and post algorithm interview problems as well as solutions.
+
+- [**Python and FinTech**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1562820814436106242&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 
 In this series, I posted/will post some pratical skills about how Python can help us do some financial data analysis works efficiently.
 
-- **Special Planning**
-
+- [**Special Planning**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1371964478593662978&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
 When I come up with content that is interesting or helpful to a lot of people, or subscribers suggest something interesting, I'll make a video or article to put in this special planning series.
+
+- [**Thinking In English**](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1589437448407810048&__biz=MzAxNTg5MDI2Mg==#wechat_redirect)
+In this series, I posted/will post English word along with its history or origins.
 
 **Follow/Subscribe my Official Account though WeChat!!!** if you are interested in what I am doing.
 ![My WeChat Official Account](/images/WeChatQR.gif)
