@@ -9,7 +9,7 @@ redirect_from:
 
 Paragliding
 ======
-Went paragliding over the weekend and I loved the feeling of flying in the blue sky.
+I love the feeling of flying in the blue sky.
 
 Jianshan, Zhejiang                       |  Jianshan, Zhejiang                        |  Jianshan, Zhejiang
 :----------------------------------------:|:------------------------------------------:|:------------------------------------------:
@@ -17,7 +17,7 @@ Jianshan, Zhejiang                       |  Jianshan, Zhejiang                  
 
 Camping
 ======
-I love camping. I love lying out in the open at night looking up at the stars.
+I love camping. I enjoy lying out in the open at night looking up at the stars.
 
 Wugongshan, Jiangxi                                   |  Wugongshan, Jiangxi                                 |  Wugongshan, Jiangxi
 :----------------------------------------:|:------------------------------------------:|:------------------------------------------:
