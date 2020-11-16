@@ -14,13 +14,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Control Science and Engineering, Tongji University, 2021 (expected)
-> GPA: 4.55/5.00
+> **GPA: 4.55/5.00**
 
 > Major in control science and engineering. Research fields are analyzing, modeling, operational
 optimizing and supervisory control of networked discrete event systems.
 
 * B.S. in Automation, Nanjing Tech University, 2015
-> Ranking: 1/60
+> **Ranking: 1/60**
 
 > Major in Automation. Awarded for Excellent Bachelor Degree Thesis of Jiangsu Province.
 
