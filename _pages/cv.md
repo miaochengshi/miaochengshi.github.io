@@ -62,11 +62,7 @@ Projects
   * Main Participant
   * Adopting time event to measure communication delays and reinvestigating closed-loop control problem. Solving safety control and nonblocking problems of networked DEDS.
 
-* **Design and Realization of Video Surveillance System on DM6437 Platform**: 2015
-  * Project Leader
-  * Proposed a mixed Gaussian model to detect and track single indoor inhabitant. Designed. And realized a video surveillance system based on DM6437 DSP platform.
-
-* **Design and Realization of the Control Systems of an Unmanned Quadrotor Helicopter**: 2013 - 2015
+* **Design and Implementation of the Control Systems of an Unmanned Quadrotor Helicopter**: 2013 - 2015
   * Project Leader
   * Responsible for project planning, organizing, controlling as well as providing technique solutions. Starting from scratch with three other members, making a quadrotor helicopter be able to taking off, landing, hovering and target tracking.
   
