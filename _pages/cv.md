@@ -25,6 +25,11 @@ optimizing and supervisory control of networked discrete event systems.
 
 Experience
 ======
+
+* **Apple**. Shanghai, China: Site Technical Manager Intern
+  * Jan 2021 - July 2021
+  * Be responsible for all aspects of manufacturing process. Working together with other engineers to work towards product solutions. Take ownership and direct a team of individual of ramping and sustaining production engineering to ensure production line is ready in terms of facilities, equipment, process and capacity so that production plan can be met.
+
 * **GLB Intelligent Technologies**. Shanghai, China: Cooperative Researcher
   * July 2019 - June 2020
   * Cooperate with the senior product manager and system engineer, as well as hardware and software engineers, I am in charge of solving the state estimation problems and developing junction temperature evaluation algorithms for a 48V Belt Starter Generator (BSG). We designed algorithms with high accuracy and implemented them to the BSG successfully. The BSG I worked on will be in mass production by the end of next year. (Developed with C, Python and MATLAB)
